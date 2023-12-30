@@ -1,0 +1,14 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "Sample project for graphQL with NodeJS",
+  "main": "index.js",
+  "author": "Simon Ngang",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "superagent": "^8.1.2"
+  }
+}
